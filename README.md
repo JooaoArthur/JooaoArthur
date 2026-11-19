@@ -1,6 +1,6 @@
 # Olá, eu sou o João Arthur 👋
 
-**Desenvolvedor Full Stack no Grupo Breitkopf · Estudante na FURB**
+**Analista de TI no Grupo Breitkopf · Estudante na FURB**
 
 Atuo no desenvolvimento de soluções internas do Grupo Breitkopf. Trabalho com aplicações web, do front-end ao back-end e ao banco de dados, para atender às necessidades do dia a dia da empresa.
 
